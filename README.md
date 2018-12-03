@@ -13,3 +13,11 @@ The web app was created using Flask and Bootstrap. It was deployed on Heroku.
 - Flask
 - Heroku
 - Bootstrap
+
+**Resources**
+
+- [Michael Herman's Flaskr TDD](https://github.com/mjhea0/flaskr-tdd#templates-and-views)
+- [Python Spot: Flask Web Forms](https://pythonspot.com/flask-web-forms/)
+- [Towards Data Science: Build, Develop and Deploy a Machine Learning Model to predict cars price using Gradient Boosting.](https://towardsdatascience.com/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting-2d4d78fddf09)
+- [Cars Price Prediction Github Repo](https://github.com/PaacMaan/cars-price-predictor)
+- [Cars Price Prediction Heroku App](https://cars-price-prediction.herokuapp.com/)
